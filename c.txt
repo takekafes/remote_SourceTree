@@ -1,3 +1,4 @@
 Noi dung C
 
 Cap nhat boi GVN PC
+Cap nhat boi Dell 5520
