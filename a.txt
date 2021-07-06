@@ -2,3 +2,5 @@ Noi dung A da duoc sua theo yeu cau cua dongttfd
 Noi dung dongtt_A1
 thuc hien by ductt
 Noi dung dongtt_A2
+
+chuan bi sang rebase
