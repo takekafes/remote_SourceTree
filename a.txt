@@ -4,7 +4,10 @@ Noi dung dongtt_branch_c5_1
 thuc hien by ductt
 No Noi dung dongtt_A2
 Noi dung dongtt_branch_test_1
-chuan bi sang rebase
+chuan bi sang rebasei
 Noi dung dongtt_branch_c5_2_1
 Noi dung dongtt_branch_c5_2_2
 
+# end
+
+ket thuc rebase 
