@@ -8,3 +8,4 @@ chuan bi sang rebase
 Noi dung dongtt_branch_c5_2_1
 Noi dung dongtt_branch_c5_2_2
 
+ket thuc rebase
